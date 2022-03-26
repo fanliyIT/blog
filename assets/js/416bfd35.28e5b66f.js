@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[8256],{3497:function(e){e.exports=JSON.parse('{"title":"SQL","slug":"/category/sql","permalink":"/docs/category/sql","navigation":{"previous":{"title":"GraphQL","permalink":"/docs/HTTP/GraphQL"},"next":{"title":"\u8fde\u63a5\u5e94\u7528","permalink":"/docs/SQL/\u8fde\u63a5\u5e94\u7528"}}}')}}]);

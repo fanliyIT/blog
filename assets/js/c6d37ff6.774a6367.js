@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[8842],{6938:function(e){e.exports=JSON.parse('{"title":"\u7b97\u6cd5","slug":"/category/\u7b97\u6cd5","permalink":"/docs/category/\u7b97\u6cd5","navigation":{"previous":{"title":"exam","permalink":"/docs/SQL/exam"},"next":{"title":"\u7ec3\u4e60","permalink":"/docs/\u7b97\u6cd5/\u7ec3\u4e60"}}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[5393],{4950:function(e){e.exports=JSON.parse('{"title":"\u524d\u7aef","slug":"/category/\u524d\u7aef","permalink":"/docs/category/\u524d\u7aef","navigation":{"previous":{"title":"\u65f6\u95f4\u7ebf","permalink":"/docs/timeline"},"next":{"title":"ES6","permalink":"/docs/\u524d\u7aef/ES6"}}}')}}]);
